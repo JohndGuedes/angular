@@ -1,0 +1,14 @@
+/* You can add global styles to this file, and also import other style files */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+
+    --primary-color: #7c1cb9;
+    --background-color: #eff2f5;
+    --text-color: #333;
+    --glass-background: rgba(255, 255, 255, 0.7);
+    --glass-border: 1px solid rgba(255, 255, 255, 0.3);
+    --glass-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+}

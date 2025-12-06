@@ -1,0 +1,15 @@
+[
+  {
+    "Id": "1918442",
+    "GlobalId": "SP918442",
+    "Name": "JOHN DEYVY CORREA GUEDES",
+    "Gender": "Male",
+    "Email": "john.guedes@lge.com",
+    "IsActive": true,
+    "DepartmentName": "MS PRODUCTION MGMT. PART - MAO",
+    "DepartmentId": "12076",
+    "Role": "Staff",
+    "JobDescription": "ANALISTA DE ENGENHARIA DE PROCESSO PL",
+    "UserName": "john.guedes"
+  }
+]
